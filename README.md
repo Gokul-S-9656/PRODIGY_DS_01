@@ -21,6 +21,7 @@ Data Science Internship at Prodigy InfoTech
 
 ## 📁 Project Structure
 PRODIGY_DS_01/
+
 │
 
 ├── data/
