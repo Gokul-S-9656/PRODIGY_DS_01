@@ -4,7 +4,7 @@
 Data Science Internship at Prodigy InfoTech
 
 ## 📊 Task Objective
-(To be updated after receiving the task)
+To visualize the distribution of population data using histogram and bar chart.
 
 ## 🛠️ Tools & Technologies
 - Python
@@ -33,7 +33,8 @@ PRODIGY_DS_01/
 └── README.md
 
 ## 📈 Results
-(To be updated after task completion)
+- Histogram shows how population is distributed across countries
+- Bar chart highlights the top 10 most populated countries
 
 ## 🚀 Author
 Gokul S
